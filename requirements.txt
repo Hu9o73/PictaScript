@@ -1,0 +1,9 @@
+numpy         # Scientific computing library for array operations and numerical computations
+matplotlib    # Plotting library for creating static, animated, and interactive visualizations
+pillow        # Python Imaging Library (PIL) fork for image processing tasks
+tqdm          # Progress bar library for displaying loop progress
+tensorflow    # Machine learning framework for building and training neural networks
+keras           # High-level neural networks API, running on top of TensorFlow
+nltk          # Natural Language Toolkit for text processing and linguistic data manipulation
+graphviz      # Visualization software for creating diagrams and flowcharts 
+pydot           # Interface to Graphviz for creating and rendering graphs and diagrams (We use it to visualize the model)
